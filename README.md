@@ -30,7 +30,7 @@ With a strong focus on clean architecture and maintainable codebases, I thrive o
 
 - 💬 Ask me about **React, Node.js, MongoDB, Next.js, and GraphQL**
 
-- 📫 How to reach me **wasim983760@gmail.com**
+- 📫 How to reach me **wasimkhan983760@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
