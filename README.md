@@ -1,20 +1,19 @@
 # Hello there 👋 I'm Mohd. Wasim Khan!
 
-I'm a passionate Full-Stack Web Developer committed to crafting efficient, scalable, and user-friendly web applications. Proficient in both front-end and back-end development, I specialize in creating seamless digital experiences with modern technologies and frameworks. My expertise includes building responsive user interfaces, designing robust APIs, and optimizing web performance.
+Aspiring Software Developer Intern skilled in Java, Spring Boot, Hibernate, and RESTful APIs. Experienced in building scalable backend systems and optimizing databases. Passionate about solving problems with clean code, collaborating in agile teams, and exploring tools like maven and vs code. Eager to contribute to impactful projects and grow as a software engineer.
 
 With a strong focus on clean architecture and maintainable codebases, I thrive on solving complex challenges and delivering innovative solutions. Whether it's creating dynamic user experiences or architecting efficient back-end systems, I'm dedicated to pushing the boundaries of web development.
 
-🌱 I'm currently exploring **Next.js, GraphQL, and serverless architectures** to enhance my skill set.
+🌱 I'm currently exploring **Microservices, GraphQL, and serverless architectures** to enhance my skill set.
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![SpringMCV](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -28,7 +27,7 @@ With a strong focus on clean architecture and maintainable codebases, I thrive o
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imohdwasim&show_icons=true&theme=prussian&locale=en&layout=compact" alt="imohdwasim" /></p>
 
-- 💬 Ask me about **React, Node.js, MongoDB, Next.js, and GraphQL**
+- 💬 Ask me about **React, Java, SpringBoot, MYSql, and GraphQL**
 
 - 📫 How to reach me **wasimkhan983760@gmail.com**
 
